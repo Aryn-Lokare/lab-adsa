@@ -56,4 +56,3 @@ public class LCS {
         sc.close();
     }
 }
-
